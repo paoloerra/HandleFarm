@@ -1,4 +1,4 @@
-![Test Image 4](/WebContent/images/DocuExchange_1.png)
+![Test Image 4](/WebContent/images/LogoC.png)
 
 ## Contributors
 

@@ -3698,9 +3698,14 @@ p.w3l-register-p {
 	color: #141414;
 }
 
+.w3l-login-form  img {
+  text-align: center;
+  margin-left: 110px;
+}
+
 
 .w3l-login-form  button {
-    background: #0a3865;
+    background: #83B383;
     color: #ffffff;
     font-size: 13px;
     text-transform: uppercase;
