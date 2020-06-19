@@ -5,7 +5,7 @@
 | Student | Email | Badge number|
 | ------ | ------ | ------ |
 | Paolo Erra | p.erra1@studenti.unisa.it |05121 05391|
-| Antonio Falcone  |m.derosa102@a.falcone43@studenti.unisa.it |05121 05238|
+| Antonio Falcone  |a.falcone43@studenti.unisa.it |05121 05238|
 | Luca Prisco | l.prisco12@studenti.unisa.it |05121 05190|
 | Gianluigi Califano |g.califano35@studenti.unisa.itsa.it |05121 05271|
 
