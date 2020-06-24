@@ -6,7 +6,7 @@
 	<!-- Basic Page Needs
 	================================================== -->
 	<meta charset="utf-8">
-	<title>Raccolto - Inserimento</title>
+	<title>Gestione Raccolto</title>
 
 	<!-- Mobile Specific Metas
 	================================================== -->
@@ -124,18 +124,47 @@
 		<!--/ Header end -->
 
 		<div id="fh5co-page">
-			<div id="fh5co-wrap">
-				<div id="fh5co-main">
+		<div id="fh5co-wrap">
+			<div id="fh5co-main">
+				<!-- TABELLA -->
 					<div class="wrapper">
-						<h1>POSIZIONE SEGNALAZIONE DEL 02/03/2020</h1>
-								<div class="form">
-										<img src="images/GPSSegnalazione.png" alt="" height="380" width="910">
-								</div>
-										<a href="DettagliSegnalazione.html"><button id="btn" class="btn btn-annulla">Torna indietro</button></a>
+						<h1>GESTIONE RACCOLTO</h1>
+							<div class="form">
+								<div class="top-form">
+									<div class="inner-form">
+										<div class="label"> </div>
+										<H3><i class="fa fa-angle-left" aria-hidden="true"></i> MAGGIO 2020 <i class="fa fa-angle-right" aria-hidden="true"></i></H3>
 									</div>
-					</div>
-				</div>
+									<div class="inner-form"style="margin-left: 170px">
+										<div class="label">Coltura:</div>
+										<input id="name" type="text" value="Pomodoro" readonly>
+									</div>
+										<br><button class="btn btn-primary">Cerca</button>
 
+
+									</div>
+								</div>
+							<div style="width: 920px; height:400px; overflow-y: scroll;">
+							<table id="table" class="table table-hover" style="color: #808080">
+						  		<tbody>
+							    	<tr>
+							      		<td><b>Data raccolto:</b>06/03/2020<br><b>Coltura: </b>Pomodoro<br><b>Quantità: </b>60kg<br></td>
+							   		</tr>
+										<tr>
+							      		<td><b>Data raccolto:</b>08/03/2020<br><b>Coltura: </b>Pomodoro<br><b>Quantità: </b>20kg<br></td>
+							   		</tr>
+										<tr>
+												<td><b>Data raccolto:</b>09/03/2020<br><b>Coltura: </b>Pomodoro<br><b>Quantità: </b>30kg<br></td>
+										</tr>
+						  		</tbody>
+							</table>
+							</div>
+							<a href="InserisciRaccolto.html"><button id="btn" class="btn btn-posizione">Aggiungi raccolto <i class="fa fa-plus"></i></button></a>
+							<div style="margin-left:80%; margin-top: -5%"><h3>Totale: 110kg</h3></div>
+						</div>
+
+			</div>
+	</div>
 
 
 

@@ -792,7 +792,7 @@ ul.top-info-box>li.nav-search i {
 }
 
 .navbar {
-    border-radius: 0;
+    border-radius: 0px;
     border: 0;
     margin-bottom: 0;
 }
@@ -801,7 +801,7 @@ ul.top-info-box>li.nav-search i {
    float: left;
     margin-top: 10px;
     padding: 8px;
-    border-radius: 0;
+    border-radius: 0px;
     margin-right: 5px;
     background: #4c52f5;
 }
@@ -4201,4 +4201,9 @@ select {
 .btns .btn2:hover{
   transition: .5s;
   background: #e60000;
+}
+
+.totricerca {
+  margin-left: 100px;
+  color: red;
 }
