@@ -22,3 +22,7 @@ git clone https://github.com/paoloerra/HandleFarm.git
 ```
 
 * Per iniziare la simulazione del sistema avviare la pagina "Login.html"
+
+
+### Feedback survey
+https://forms.gle/nLWY3URvXub5mtgy8 
